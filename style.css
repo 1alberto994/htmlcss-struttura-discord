@@ -10,7 +10,7 @@
     align-items: center;
 
 }
-header,main{
+header,main,footer{
     max-width: 1200px;
     margin:0 auto;
     
@@ -116,5 +116,34 @@ main{
     width: 150px;
     border: 1px dashed black;
 }
+hr{
+    color: grey;
+    border:1px solid grey;
+}
+.container-sei{
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+
+}
+.display{
+    border: 1px dashed black;
+    display: flex;
+    background-color: aqua;
+    width: 1000px; 
+    height: 70px;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.logo2,.bottone{
+    background-color: lightgrey;
+    border: 1px dashed black;
+    height: 20px;
+    display: flex;
+   
+}
+
 
 
