@@ -85,5 +85,36 @@ main{
     border: 1px dashed black;
     
 }
+.quadrato-verde{
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 1000px;
+    border: 1px dashed black;
+}
+.container-cinque{
+    background-color: black;
+    display: flex;
+    border: 1px dashed black;
+
+}
+.quadrato-giallo{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 400px;
+    border: 1px dashed black;
+}
+.quadrato-arancione{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 150px;
+    border: 1px dashed black;
+}
 
 
